@@ -1,5 +1,8 @@
 # FatalCarCrashPredictionMachineLearningSeminar
-Machine Learning Seminar Final Project - Predict Fatal car crash by analysing car crashes data file by 3 algorithms, Logistic Regression, Multi Layer Perceptron and Random Forest
+
+Final Project - Machine Learning Seminar, Grade 95.
+
+Predict Fatal car crash by analysing car crashes data file by 3 algorithms, Logistic Regression, Multi Layer Perceptron and Random Forest
 
 
 ![](https://github.com/ShalevL/FatalCarCrashPredictionMachineLearningSeminar/blob/master/1.png)
